@@ -1,0 +1,7 @@
+# Original ignore for this module
+.DS_Store
+*.swp
+*.bak
+
+# Byte-compiled
+*.class
